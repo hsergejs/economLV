@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+p { padding-top:5px; padding-bottom:5px; padding-left:5px;}
+
+h1 {font-family:Verdana, Geneva, sans-serif; font-size:15px; color:#666; padding-top:15px; padding-left:5px;}
+
+div#avatar_img {position:relative; float:left; margin-right:50px; margin-top:25px;}
+div#avatar_img_m {position:relative; float:left; margin-right:50px; margin-top:10px;}
+
+.comm_table_1 { border:1px solid #CCC; position:relative; margin-top:15px; -moz-border-radius:15px; -webkit-border-radius:15px; border-radius:15px; background-color:#FFF;}
+
+

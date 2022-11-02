@@ -1,0 +1,9 @@
+User-agent: *
+Disallow:    /img/
+Disallow:    /js/
+Disallow:    /lang/
+Disallow:    /css/
+Disallow:    /users/
+Disallow:    /codegen/
+Disallow:    /block/
+Disallow:    /banners/

@@ -1,0 +1,4 @@
+@charset "utf-8";
+/* opera ONLY CSS */
+
+div#search_field { background-color:#fdfaf5; height:25px; width:185px; -moz-border-radius:20px; -webkit-border-radius:20px; border-radius:20px; position:absolute; z-index:0; margin-left:10px; padding:0px;}

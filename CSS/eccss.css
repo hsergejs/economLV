@@ -1,0 +1,173 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@import url('typography.css');
+
+body { margin:0px; padding:10px;}
+
+:focus { outline: 0;}
+
+div#bwrap { border:1px solid #E8E8E8; padding:20px; background-color:#fdfaf5; -moz-border-radius:20px; 
+-webkit-border-radius:20px; border-radius:20px;}
+
+.table_style { border:1px solid #E8E8E8; padding:20px; background-color:#fdfaf5; -moz-border-radius:20px; 
+-webkit-border-radius:20px; border-radius:20px;}
+
+div#avatar_img {position:relative; float:left; margin-right:50px; margin-top:50px;}
+div#avatar_img_m {position:relative; float:left; margin-right:50px; margin-top:50px;}
+
+.table_style_text { border:1px solid #E8E8E8; padding-left:20px; padding-right:20px; padding-bottom:20px; padding-top:3px; background-color:#fdfaf5; -moz-border-radius:20px; 
+-webkit-border-radius:20px; border-radius:20px;}
+
+.p_style { border:1px solid #E8E8E8; padding:15px; background-color:#fdfaf5; -moz-border-radius:20px; 
+-webkit-border-radius:20px; border-radius:20px; margin:0px;}
+
+div#logo_lat { background:url(../img/logo2.png) no-repeat; width:266px; height:70px; margin:0px; padding:0px;}
+div#logo_rus { background:url(../img/logo1.png) no-repeat; width:266px; height:70px; margin:0px; padding:0px;}
+
+div#textwrap {margin-left:30px; margin-right:30px; }
+div#textwrap_cat {margin-left:0px; margin-right:0px; }
+
+.commtable { padding-top:30px; border-bottom:solid 1px #666;}
+
+hr { border:solid 2px #CCC;}
+
+div#joinF { padding-top:0px;}
+
+.trform { visibility:hidden; position:absolute; z-index:0;}
+
+/*rating*/
+
+/*comments*/
+.commtable { padding-top:30px; border-bottom:solid 1px #666;}
+.commtable1 { padding-top:50px;}
+
+div#code_img { padding-right:60px; margin-bottom:40px; margin-right:30px;}
+
+.profile_table {  border-color:#DFDFDF; }
+
+.comm_table_1 { border:1px solid #CCC; position:relative; margin-top:15px; -moz-border-radius:15px; -webkit-border-radius:15px; border-radius:15px; background-color:#FFF;}
+
+div#profile_td_wrap { border:1px solid #CCC; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px;}
+
+
+div#search_field { background-color:#fdfaf5; height:25px; width:165px; -moz-border-radius:20px; -webkit-border-radius:20px; border-radius:20px; position:absolute; z-index:0; margin:0px; padding:0px;}
+
+.search_form {position:relative; z-index:1; padding-left:6px; margin:0px; padding-right:0px; padding-top:0px; padding-bottom:0px;}
+
+
+/*  menu sprite for rus lang  */
+ul#menu { margin:0px; padding-left:15px; list-style:none; clear:both;}
+
+ul#menu li {background:url(../img/last_men.png); background-repeat:no-repeat; float:left; height:45px; width:103px;}
+
+ul#menu a {display:block; text-indent:-9000px; width:100%; height:100%;}
+
+ul#menu li#home {background-position:0px 0px;}
+ul#menu li#home:hover {background-position:0px -50px;}
+ul#menu li#home.current, ul#menu li#home:active {background-position:0px -50px;}
+
+ul#menu li#catalogue {background-position:-103px 0px; width:102px}
+ul#menu li#catalogue:hover {background-position:-103px -50px; width:102px}
+ul#menu li#catalogue.current, ul#menu li#catalogue:active {background-position:-103px -50px; width:102px}
+
+ul#menu li#enter {background-position:-205px 0px; width:182px;}
+ul#menu li#enter:hover {background-position:-205px -50px; width:182px;}
+ul#menu li#enter.current, ul#menu li#enter:active {background-position:-205px -50px; width:182px;}
+
+ul#menu li#adert {background-position:-387px 0px; width:106px;}
+ul#menu li#adert:hover {background-position:-387px -50px; width:106px;}
+ul#menu li#adert.current, ul#menu li#adert:active {background-position:-387px -50px; width:106px;}
+
+ul#menu li#contacts {background-position:-494px 0px; width:114px;}
+ul#menu li#contacts:hover {background-position:-494px -50px; width:114px;}
+ul#menu li#contacts.current, ul#menu li#contacts:active {background-position:-494px -50px; width:114px;}
+
+
+/*  menu sprite for lv lang  */
+ul#menu_lv { margin:0px; padding-left:15px; list-style:none; clear:both;}
+
+ul#menu_lv li {background:url(../img/last_men_lv.png); background-repeat:no-repeat; float:left; height:45px; width:101px;}
+
+ul#menu_lv a {display:block; text-indent:-9000px; width:100%; height:100%;}
+
+ul#menu_lv li#home {background-position:0px 0px;}
+ul#menu_lv li#home:hover {background-position:0px -50px;}
+ul#menu_lv li#home.current, ul#menu_lv li#home:active {background-position:0px -50px;}
+
+ul#menu_lv li#catalogue {background-position:-101px 0px; width:106px}
+ul#menu_lv li#catalogue:hover {background-position:-101px -50px; width:106px}
+ul#menu_lv li#catalogue.current, ul#menu_lv li#catalogue:active {background-position:-101px -50px; width:106px}
+
+ul#menu_lv li#enter {background-position:-207px 0px; width:188px;}
+ul#menu_lv li#enter:hover {background-position:-207px -50px; width:188px;}
+ul#menu_lv li#enter.current, ul#menu_lv li#enter:active {background-position:-207px -50px; width:188px;}
+
+ul#menu_lv li#adert {background-position:-395px 0px; width:104px;}
+ul#menu_lv li#adert:hover {background-position:-395px -50px; width:104px;}
+ul#menu_lv li#adert.current, ul#menu_lv li#adert:active {background-position:-395px -50px; width:104px;}
+
+ul#menu_lv li#contacts {background-position:-499px 0px; width:108px;}
+ul#menu_lv li#contacts:hover {background-position:-499px -50px; width:108px;}
+ul#menu_lv li#contacts.current, ul#menu_lv li#contacts:active {background-position:-499px -50px; width:108px;}
+
+
+/* menu sprite for rus_profile */
+ul#menu_prof { margin:0px; padding-left:15px; list-style:none; clear:both;}
+
+ul#menu_prof li {background:url(../img/last_men_prof.png); background-repeat:no-repeat; float:left; height:45px; width:121px;}
+
+ul#menu_prof a {display:block; text-indent:-9000px; width:100%; height:100%;}
+
+ul#menu_prof li#home {background-position:0px 0px;}
+ul#menu_prof li#home:hover {background-position:0px -50px;}
+ul#menu_prof li#home.current, ul#menu_prof li#home:active {background-position:0px -50px;}
+
+ul#menu_prof li#catalogue {background-position:-121px 0px; width:121px}
+ul#menu_prof li#catalogue:hover {background-position:-121px -50px; width:121px}
+ul#menu_prof li#catalogue.current, ul#menu_prof li#catalogue:active {background-position:-121px -50px; width:121px}
+
+ul#menu_prof li#enter {background-position:-242px 0px; width:127px;}
+ul#menu_prof li#enter:hover {background-position:-242px -50px; width:127px;}
+ul#menu_prof li#enter.current, ul#menu_prof li#enter:active {background-position:-242px -50px; width:127px;}
+
+ul#menu_prof li#adert {background-position:-370px 0px; width:124px;}
+ul#menu_prof li#adert:hover {background-position:-370px -50px; width:124px;}
+ul#menu_prof li#adert.current, ul#menu_prof li#adert:active {background-position:-370px -50px; width:124px;}
+
+ul#menu_prof li#contacts {background-position:-494px 0px; width:131px;}
+ul#menu_prof li#contacts:hover {background-position:-494px -50px; width:131px;}
+ul#menu_prof li#contacts.current, ul#menu_prof li#contacts:active {background-position:-494px -50px; width:131px;}
+
+
+/* menu sprite for lat_profile */
+ul#menu_lv_prof { margin:0px; padding-left:15px; list-style:none; clear:both;}
+
+ul#menu_lv_prof li {background:url(../img/last_men_lv_prof.png); background-repeat:no-repeat; float:left; height:45px; width:122px;}
+
+ul#menu_lv_prof a {display:block; text-indent:-9000px; width:100%; height:100%;}
+
+ul#menu_lv_prof li#home {background-position:0px 0px;}
+ul#menu_lv_prof li#home:hover {background-position:0px -50px;}
+ul#menu_lv_prof li#home.current, ul#menu_lv_prof li#home:active {background-position:0px -50px;}
+
+ul#menu_lv_prof li#catalogue {background-position:-122px 0px; width:127px}
+ul#menu_lv_prof li#catalogue:hover {background-position:-122px -50px; width:127px}
+ul#menu_lv_prof li#catalogue.current, ul#menu_lv_prof li#catalogue:active {background-position:-122px -50px; width:127px}
+
+ul#menu_lv_prof li#enter {background-position:-249px 0px; width:111px;}
+ul#menu_lv_prof li#enter:hover {background-position:-249px -50px; width:111px;}
+ul#menu_lv_prof li#enter.current, ul#menu_lv_prof li#enter:active {background-position:-249px -50px; width:111px;}
+
+ul#menu_lv_prof li#adert {background-position:-360px 0px; width:128px;}
+ul#menu_lv_prof li#adert:hover {background-position:-360px -50px; width:128px;}
+ul#menu_lv_prof li#adert.current, ul#menu_lv_prof li#adert:active {background-position:-360px -50px; width:128px;}
+
+ul#menu_lv_prof li#contacts {background-position:-488px 0px; width:127px;}
+ul#menu_lv_prof li#contacts:hover {background-position:-488px -50px; width:127px;}
+ul#menu_lv_prof li#contacts.current, ul#menu_lv_prof li#contacts:active {background-position:-488px -50px; width:127px;}
+
+
+
+.slideshow { height: 70px; width: 70px;}
+.slideshow img {  height: 70px; width: 70px; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px;}

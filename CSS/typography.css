@@ -1,0 +1,77 @@
+@charset "UTF-8";
+/* CSS Document */
+
+a:link {color:#ff741f;}
+a:visited {color:#ff741f;}
+a:hover {color:#F60;}
+a:active {color:#F30;}
+
+.a_index { font-family:Verdana, Geneva, sans-serif; font-size:14px; word-spacing:1px;}
+
+A IMG {
+border: 0px; 
+}
+A:visited IMG {
+border: 0px; 
+}
+
+h2 { font-family:Verdana, Geneva, sans-serif; font-size:20px; color:#666;}
+h3 { font-family:Verdana, Geneva, sans-serif; font-size:15px; color:#666;}
+h4 { font-family:Verdana, Geneva, sans-serif; font-size:14px; color:#666;}
+
+
+p { font-family:Verdana, Geneva, sans-serif; font-size:12px; word-spacing:1px; color:#3E3E3E;}
+.pfc { font-family:Verdana, Geneva, sans-serif; font-size:10px; color:#999; padding-top:25px;}
+.pfc a { font-family:Verdana, Geneva, sans-serif; font-size:9px; color:#F60;}
+.pfm { font-family:Verdana, Geneva, sans-serif; font-size:10px; color:#F60; word-spacing:1px; margin-left:5px; padding-top:25px;}
+.pfm a { font-family:Verdana, Geneva, sans-serif; font-size:10px; color:#F60; word-spacing:1px; margin-left:5px;}
+
+.p1a {font-size:10px; font-family:Verdana, Geneva, sans-serif; color:#666; padding-left:10px; padding-bottom:20px;}
+
+.stats {font-size:10px; font-family:Verdana, Geneva, sans-serif; color:#666; padding-left:10px;}
+
+.h2 {font-size:25px; font-family: Verdana, Geneva, sans-serif ; font-weight:bold;}
+.h3 {font-size:20px; font-family: Verdana, Geneva, sans-serif ; } 
+.h4 {font-size:15px; font-family: Verdana, Geneva, sans-serif;}
+
+.join_us_error { font-family:Verdana, Geneva, sans-serif; font-size:13px; color:#C1000C; vertical-align:middle; margin-top:20px; margin-bottom:20px;}
+
+.join_us_upload { font-family:Verdana, Geneva, sans-serif; font-size:12px; padding-top: 20px; padding-bottom:20px;}
+
+div#joinF p { font-family:Verdana, Geneva, sans-serif; font-size:12px; color:#FF8000;}
+div#joinForm p { font-family:Verdana, Geneva, sans-serif; font-size:12px; color:#999;}
+
+.commhead { color:#666; font-size:40px; font-family: Verdana, Geneva, sans-serif; font-weight:bold; padding-top:50px; padding-bottom:10px;}
+
+.commwarn { font-size:14px; font-family: Verdana, Geneva, sans-serif ; color:#F60; margin-top:30px; margin-bottom:30px; }
+
+.comm2l { font-size:12px; font-family:Verdana, Geneva, sans-serif; }
+
+.contact_us_succes { font-family:Verdana, Geneva, sans-serif; font-size:13px; color:#F60; font-weight:bold; margin-bottom:30px; margin-top:50px;}
+
+div#a_z_catalogue {text-decoration:none; font-family:Verdana, Geneva, sans-serif; font-size:12px; color:#F60; margin-left:170px;}
+
+div#a_z_catalogue a {text-decoration:none; font-family:Verdana, Geneva, sans-serif; font-size:12px; color:#F60;}
+
+div#catalogue { font-family:Verdana, Geneva, sans-serif; font-size:12px; text-align:left;
+padding-top:10px;}
+
+div#catalogue a { text-decoration:none; font-family:Verdana, Geneva, sans-serif; font-size:12px; color:#F60; }
+
+div#linkcat {text-decoration:none; font-family:Verdana, Geneva, sans-serif; font-size:12px; color:#000; padding-top: 10px; font-weight:bold}
+
+div#linkcat a {text-decoration:none; font-family:Verdana, Geneva, sans-serif; font-size:12px; color:#000;}
+
+/*comments*/
+.commhead { font-size:17px; font-family: Verdana, Geneva, sans-serif ; padding-top:0px; padding-bottom:20px;}
+
+.commwarn { font-size:14px; font-family: Verdana, Geneva, sans-serif ; color:#F60; margin-top:30px; margin-bottom:30px; }
+
+.comm2l { font-size:12px; font-family:Verdana, Geneva, sans-serif; }
+
+.joinF { font-family:Verdana, Geneva, sans-serif; font-size:12px; color:#FF8000;}
+
+.p3 {font-size:12px; font-family:Verdana, Geneva, sans-serif; color:#F60; }
+.p1 {font-size:10px; font-family:Verdana, Geneva, sans-serif; color:#666;}
+
+.ul_ol {font-family: Verdana, Geneva, sans-serif; font-size:12px; word-spacing:1px;}

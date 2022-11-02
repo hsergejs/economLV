@@ -1,0 +1,36 @@
+﻿echo " <h3>Izvietojiet reklāmu pie mums</h3>
+<p>Econom.lv ir viena no visprogresējošākajām mājas lapām un ir unikāls serviss internetā un Latvijas tirgū. Sekojot līdzi masu mēdijiem, reklāma internetā ar katru gadu iegūst aizvien lielāku popularitāti Latvijas plašajā kompāniju lokā.<br>
+Ar mūsu izdomu, oriģinālo piegājienu un individuālo pieeju katra mūsu klienta vēlmēm, mēs varam palīdzēt attīstīt Jūsu zīmolu.</p>
+
+<p><strong>Reklāmas produkti:</strong> Mūsu mājas lapā ir plašas izvēles iespējas reklāmas produkcijai, kuru Jūs varat izvietot pie mums, kā arī mēs nodrošinām uzņēmumu ar banera izveidošanu. (Ja Jūs interesē citu veidu produkti, kuri šeit nav pieminēti vai arī Jums ir nepieciešama papildus informācija, lūdzu nevilcinieties un kontaktējaties ar mums caur <a href='contact_us.php?lang=".$lang."'>mājaslapā izvietotajiem kontaktiem</a>)</p>
+
+<p>Lielais baneris<br>
+Vidējais baneris <br>
+'Esi zināms pateicoties zīmolam!'<br>
+Galeriju baneris<br>
+Video baneris<br>
+Dinamiskais baneris <br>
+POP-UP/POP-UNDER baneris<br></p>";
+
+
+
+
+
+
+
+
+
+
+echo " <h3>Реклама на Econom.lv</h3>
+<p>Проект Econom.lv – это один из наиболее прогрессивных и уникальный интернет-услуг на рынке Латвии. Наряду с рекламой в СМИ, интернет-реклама год за годом получает всё большую и большую популярность среди фирм Латвии.<br>
+С нашими творческими идеями, оригинальными решениями и индивидуальным подходом к каждому из наших клиентов, мы сможем помочь Вам развивать и продвигать Ваш Бренд к новым вершинам.</p>
+
+<p><strong>Рекламная продукция:</strong> У нас имеется широкий выбор рекламной продукции, которую вы можете разместить на нашем сайте, а так же мы можем предоставить услуги по созданию баннерной рекламы. (Если Вас интересует какая-либо другая форма рекламы, не описанная ниже, или Вам нужна дополнительная информация, пожалуйста, свяжитесь с нами через <a href='contact_us.php?lang=".$lang."'>раздел Контакты</a>)</p>
+
+<p>Мега баннер<br>
+Средний баннер<br>
+'Узнай меня по бренду!'<br>
+Галерея баннер, ротатор<br>
+Видео баннер<br>
+Динамический баннер<br>
+POP-UP/POP-UNDER баннер<br></p>";
